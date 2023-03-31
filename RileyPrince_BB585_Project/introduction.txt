@@ -1,0 +1,19 @@
+Riley Prince BB585 3/24/2023
+
+The goal of this project is to investigate how differences in RNA Sequences affect the different folding of RNA
+Current research suggests that stable secondary stuctures in RNA decreases the rate of Translation.
+This program will determine which Sequences are most likely to have decreased translation of mRNA
+At the very worst this program will act as a way to generate phylogenetic trees and run RNAfold on large number of sequences
+This also generates seperate fasta files for each of the original fasta files
+This is intended to work for any fasta file containing DNA sequences. Larger Sequences = larger Run time
+The Sample data provided compares Insulin protein sequence
+
+Part 1) - a phytlogenetic tree will be used to illustrate the differences between the sequences
+
+Part 2) - RNA fold will be used to demonstrate how the different mutations affect folding
+
+
+Becasue the sequences are of different lengths
+based on the data from this simulation it seems that more closely related sequences demonstrate the most similar percent folding
+Based on this evidence it seems human insulin will have the highest rate of translation of the sequences provided
+
